@@ -1,7 +1,11 @@
 const num = 123
 let sum = 0
 // your code goes here
-sum=(num[0] + num[1] + num[2])
+let num1 = "num/100";
+let num2 = "num/10";
+let num1 = "num/100";
+
+sum=
 console.log(sum);
 
 
