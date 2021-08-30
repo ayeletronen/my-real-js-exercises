@@ -5,6 +5,7 @@ const a = 1; b = -6; c = 9;  // stands for x**2 - 6*x + 9 = 0;
 let solutionA = solutionB = 0;
 // your code goes here
 solutionA = (x*x - (x*b) + c);
+solutionB = (x*x - (x*b) + c)
 console.log(solutionA, solutionB);
 
 /*You can find on Google the formula to find the solutions. 
